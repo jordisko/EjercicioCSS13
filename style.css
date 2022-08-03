@@ -1,0 +1,22 @@
+.box {
+    width: 100px;
+    height: 100px;
+    outline: red dotted 10px;
+    margin-left: 0px;
+    margin-right: auto;
+    
+    
+    
+}
+.box-1 {
+    background-color: cornflowerblue;
+
+}
+.box:hover{
+    width: 100px;
+    height: 100px;
+    outline:black dotted 10px;
+    margin-left: 0px;
+    margin-right: auto;
+}
+
